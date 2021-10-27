@@ -1,0 +1,19 @@
+body 
+{
+  background-image: url('money.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+p
+{
+	color:gold;
+}
+.col-sm-4
+{
+	background-color:black;
+}
+.nav-link 
+{
+  color: gold;
+}
